@@ -1,0 +1,9 @@
+{
+  "name": "hello-carbon",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test test/",
+    "build": "node build.mjs"
+  }
+}
